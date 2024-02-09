@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "I am currently a PhD candidate at Lehigh University. I obtained my MSc in Earth Science, with Speciality in Geosciences, Georisks, Georesources from Université de Nice Sophia Antipolis in Nice, France. My B.S in Engineering in Geology I received it from ESPOL in Guayaquil, Ecuador.
   After obtaining my MSc I worked in the local earthquake and volcanoes monitoring network in my homecountry."
-  location         : "Bethlehem, Pensylvania"
+  location         : "Bethlehem, Pennsylvania"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mgp222@lehigh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Gponce88"
+  github           : "gponceadams"
   google_plus      :
   keybase          :
   instagram        :
