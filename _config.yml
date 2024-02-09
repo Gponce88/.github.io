@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Gabriela Ponce"
   avatar           : "profile.png"
-  bio              : "I am currently a PhD candidate at Lehigh University. I obtained my MSc in Earth Science, with Speciality in Geosciences, Georisks, Georesources from Université de Nice Sophia Antipolis in Nice, France. My B.S in Engineering in Geology I received it from ESPOL in Guayaquil, Ecuador."
+  bio              : #"I am currently a PhD candidate at Lehigh University. I obtained my MSc in Earth Science, with Speciality in Geosciences, Georisks, Georesources from Université de Nice Sophia Antipolis in Nice, France. My B.S in Engineering in Geology I received it from ESPOL in Guayaquil, Ecuador."
   location         : "Bethlehem, Pennsylvania"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mgp222@lehigh.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
