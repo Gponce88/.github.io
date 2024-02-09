@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriela Ponce"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Gabriela Ponce"
 description              : &description "Welcome to my website !"
